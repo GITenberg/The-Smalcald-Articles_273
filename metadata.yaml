@@ -1,0 +1,44 @@
+_repo: The-Smalcald-Articles_273
+_version: 0.0.1
+alternative_title: Schmalkaldischen Artikel. English
+contributor:
+  translators:
+  - agent_name: Bente, F. (Friedrich)
+    alias: Bente, Friedrich
+    birthdate: 1858
+    deathdate: 1930
+    gutenberg_agent_id: '704'
+    url: http://www.gutenberg.org/2009/agents/704
+  - agent_name: Dau, W. H. T. (William Herman Theodore)
+    alias: Dau, William Herman Theodore
+    birthdate: 1864
+    deathdate: 1944
+    gutenberg_agent_id: '703'
+    url: http://www.gutenberg.org/2009/agents/703
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '1995-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Relations -- Lutheran Church -- Early works to 1800'
+- !lcsh 'Lutheran Church -- Creeds -- Early works to 1800'
+- !lcsh 'Lutheran Church -- Doctrines -- Early works to 1800'
+- !lcsh 'Lutheran Church -- Relations -- Catholic Church -- Early works to 1800'
+- !lcc 'BX'
+- GITenberg
+title: The Smalcald Articles
+url: http://www.gutenberg.org/ebooks/273
