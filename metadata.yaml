@@ -1,5 +1,5 @@
 _repo: The-Smalcald-Articles_273
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Schmalkaldischen Artikel. English
 contributor:
   translators:
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '703'
     url: http://www.gutenberg.org/2009/agents/703
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Luther, Martin
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/273#The-Smalcald-Articles
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '1995-06-01'
 gutenberg_type: Text
